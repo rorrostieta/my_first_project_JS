@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rorrostieta/my_first_project_JS/issues"
   },
-  "homepage": "https://github.com/rorrostieta/my_first_project_JS#readme"
+  "homepage": "https://github.com/rorrostieta/my_first_project_JS#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
